@@ -814,9 +814,10 @@ img {
 .quick-links {
     background: var(--bg-primary);
     padding: 0;
-    margin-top: -60px;
+    margin-top: -20px;
     position: relative;
     z-index: 10;
+    padding: 40px;
 }
 
 .quick-links-grid {
